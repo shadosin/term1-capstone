@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Capstone HTTP Client Test",
+      "setup": "",
+      "run": "./gradlew capstone-httpclient-test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
